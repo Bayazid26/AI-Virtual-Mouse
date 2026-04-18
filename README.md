@@ -31,8 +31,6 @@ This project demonstrates how AI can replace traditional input devices and make 
 
 ## 🧠 Tech Stack / Dependencies
 
-Install the required libraries:
-
 - 📷 **OpenCV** → Image processing & computer vision  
 - ✋ **MediaPipe** → Hand tracking & landmark detection  
 - 🖱️ **AutoPy** → Mouse control automation  
@@ -42,7 +40,14 @@ Install the required libraries:
 
 ## 📦 Installation
 
-### 1️⃣ Clone the repository
+### 🚀 Clone the Repository
+
+<p align="center">
+  <a href="https://github.com/Bayazid26/AI-Virtual-Mouse.git">
+    <img src="https://img.shields.io/badge/🔗%20CLONE%20PROJECT-CLICK%20HERE-blue?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
 ```bash
 git clone https://github.com/Bayazid26/AI-Virtual-Mouse.git
 cd AI-Virtual-Mouse
